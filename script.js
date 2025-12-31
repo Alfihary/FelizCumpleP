@@ -4,7 +4,7 @@ var w = (c.width = window.innerWidth),
   hw = w / 2, // half-width
   hh = h / 2,
   opts = {
-    strings: ["!Feliz", "Cumpleaños!","Paulina","","Espero que hoy tengas un día","muy bonito, lleno de sonrisas y","momentos que te hagan sentir","especial."],
+    strings: ["!Feliz", "Cumpleaños!","Pau","","Espero que hoy tengas un día","muy bonito, lleno de sonrisas y","momentos que te hagan sentir","especial."],
     charSize: 30,
     charSpacing: 30,
     lineHeight: 35,
